@@ -20,6 +20,7 @@
 **TRL** - Transformer Reinforcement Learning, [git](https://github.com/huggingface/trl)
 
 ### Open Scalable RL/Agentic Alignment Algorithms
+**Kimi k1.5**: Scaling Reinforcement Learning with LLMs, [paper](https://arxiv.org/abs/2501.12599), [git](https://github.com/MoonshotAI/Kimi-k1.5/tree/main), 20250120
 
 **NVIDIA NeMo-Aligner**: Scalable toolkit for efficient model alignment, [git](https://github.com/NVIDIA/NeMo-Aligner)
 
@@ -36,3 +37,8 @@ Efficient Memory Management for Large Language Model Serving with PagedAttention
 **Megatron-LM & Megatron-Core**: Ongoing research training transformer models at scale, [paper](https://arxiv.org/abs/1909.08053), [git](https://github.com/NVIDIA/Megatron-LM)
 
 **Ray**: [Ray v2 Architecture doc](https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/preview?tab=t.0), [latest doc](https://docs.ray.io/en/latest/index.html), [git](https://github.com/ray-project/ray)
+
+**DeepSeekMoE**
+* DeepSeek-V3 Technical Report, [paper](https://arxiv.org/abs/2412.19437), 202502v2
+* DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model, [paper](https://arxiv.org/abs/2405.04434), 202406v5
+* DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models, [paper](https://arxiv.org/abs/2401.06066), 202406v1
