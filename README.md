@@ -3,7 +3,7 @@
 **inclusionAI/AReaL**: Distributed RL System for LLM Reasoning, an open-source and efficient reinforcement learning system developed at the RL Lab, Ant Research, [git](https://github.com/inclusionAI/AReaL)
 
 **veRL**: Volcano Engine Reinforcement Learning for LLM, a flexible, efficient and production-ready RL training library for large language models (LLMs), [git](https://github.com/volcengine/verl); Awesome work using verl:
-
+*  [DAPO ](https://dapo-sia.github.io/): open-sourced SOTA RL algorithm that achieves 50 points on AIME 2024 based on the Qwen2.5-32B pre-trained model, the reproduction code is [publicly available](https://github.com/volcengine/verl/tree/gm-tyx/puffin/main/recipe/dapo) now.
 * [Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization](https://arxiv.org/abs/2410.09302)
 * [Flaming-hot Initiation with Regular Execution Sampling for Large Language Models](https://arxiv.org/abs/2410.21236)
 * [Process Reinforcement Through Implicit Rewards](https://github.com/PRIME-RL/PRIME/)
